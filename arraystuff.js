@@ -1,6 +1,3 @@
-let a1 = ["a", "b", "c"];
-let a2 = ["a", "b", "c"];
-let a3 = ["HAHA", "u thot", "LOL"];
 
 function checkEquals(array1, array2) {
     let ind = 0;
@@ -15,13 +12,6 @@ function checkEquals(array1, array2) {
     };
     return true;
 };
-
-console.log(checkEquals(a1, a3))
-
-// JAVIERSCRIPT的basik Built In Meffods!
-// why does shawn wasell love arrays
-
-let a4 = new Array("cheese", "burger") // ez to type
 
 function range(end, startWith0) {
     return Array(end).keys();
