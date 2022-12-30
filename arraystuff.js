@@ -17,4 +17,12 @@ export function range(end) {
     return Array(end).keys();
 }
 
-// arraystuff 1.0
+export function checkShare(a1, a2, value) {
+    if (a1.includes(value) && a2.includes(value)){
+        return true;
+    } else {
+        return false;
+    }
+}
+
+// arraystuff 1.1
