@@ -17,8 +17,4 @@
   },
   "homepage": "https://github.com/python-nerd-3/javascripttesting#readme",
   "type": "module",
-  "dependencies": {
-    "nodemon": "^2.0.20",
-    "pokemon": "^2.3.3"
-  }
 }
