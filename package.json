@@ -1,0 +1,24 @@
+{
+  "name": "arraystuff",
+  "version": "1.0.0",
+  "description": "this is array thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/python-nerd-3/javascripttesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/python-nerd-3/javascripttesting/issues"
+  },
+  "homepage": "https://github.com/python-nerd-3/javascripttesting#readme",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "pokemon": "^2.3.3"
+  }
+}
