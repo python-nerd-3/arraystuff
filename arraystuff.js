@@ -18,11 +18,8 @@ export function range(end) {
 }
 
 export function checkShare(a1, a2, value) {
-    if (a1.includes(value) && a2.includes(value)){
-        return true;
-    } else {
-        return false;
-    }
+    return a1.includes(value) && a2.includes(value)
 }
 
-// arraystuff 1.1
+// arraystuff 1.2
+
